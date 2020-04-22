@@ -26,3 +26,20 @@ bk_moves_unlocked_set_bit    = 0x80295658;
 bk_moves_unlocked_set        = 0x802956a4;
 bk_moves_has_used_set        = 0x802956b0;
 bk_moves_bitfield_stats      = 0x802956bc;
+
+bk_item_array           = 0x80386910;
+bk_item_get_count       = 0x803463f0;
+
+bk_global_flag_get      = 0x8032030c;
+bk_global_flag_set      = 0x803203f4;
+
+bk_jiggy_flag_get   = 0x803213d0;
+bk_jiggy_flag_set   = 0x8032147c;
+
+bk_mumbo_token_flag_get = 0x80321934;
+bk_mumbo_token_flag_set = 0x803219c0;
+
+bk_empty_honeycomb_flag_get = 0x803216d4;
+bk_empty_honeycomb_flag_set = 0x80321754;
+
+bk_high_note_scores = 0x803869D0;
